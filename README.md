@@ -47,4 +47,4 @@ static final String PASSWORD = "<your_passord>"; // your password
 -  Artists
 -  Songs
 -  Playlists
--  Playlsits-Songs (to handle the M:N relation between playlist and songs)
+-  Playlists-Songs (to handle the M:N relation between playlist and songs)
